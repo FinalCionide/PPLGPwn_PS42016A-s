@@ -1,3 +1,6 @@
+NEW VERSION AVAILABLE FOR Playstation MODEL: 2016A Slim / FW 11.00 , check here: https://github.com/FinalCionide/PPLGPwn_PS42016A-s_v2
+
+
 Thanks to the main creator ive forked his project to run on a specific console.
 A lot of users who own MAC OS Laptop or computer don't have access to windows or an ethernet port.
 
