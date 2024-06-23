@@ -5,6 +5,8 @@ This is a fork of PPPwn (-> PPLGPwn) which works on LG tvs which uses the RJ45 p
 If you have an LG tv, great. 
 If you DONT have an LG tv, Go back to google for your situation, this is for LG WEB OS.
 
+This is for PS4 Model 2016A Slim  This only works for FW 10.00 & 10.01
+
 Using Mac OS SSH to your television isn't the wisest option, if you keep getting WAITING FOR STAGE 2 shut off PS4 every time, 
 this fork may help via ssh. 
 
