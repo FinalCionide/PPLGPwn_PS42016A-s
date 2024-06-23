@@ -1,6 +1,9 @@
 NEW VERSION AVAILABLE FOR Playstation MODEL: 2016A Slim / FW 11.00 , check here: https://github.com/FinalCionide/PPLGPwn_PS42016A-s_v2
 (TLDR..) You need to install THIS version first (v1) to use the v2 11.00 exploit..
 This is required so dont skip it.
+-----------------------------------------------------------------------------------------------------------------------------------------
+POC
+<img width="497" alt="Screenshot 2024-06-23 at 21 53 57" src="https://github.com/FinalCionide/PPLGPwn_PS42016A-s/assets/100882399/ad493e5d-effa-4d53-8008-67b95348644c">
 
 
 Thanks to the main creator ive forked his project to run on a specific console.
