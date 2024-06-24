@@ -64,7 +64,7 @@ type chmod +x ./install.sh
 
    mv PPLGPwn_PS42016A-s-main-main PPLGPwn_PS42016A-s-main
 
-   ALL DONE HERE, type CLEAR, then RUN WGET
+   ALL DONE HERE, type CLEAR, then type WGET below;
 
    wget https://github.com/FinalCionide/PPLGPwn_PS42016A-s/releases/download/Release/install.sh
 
